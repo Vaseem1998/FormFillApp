@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register - New App</h1>
+    <h1>Register - New App- My Edition Bruhhhhhh</h1>
     <p>Please fill in this form</p>
     <hr>
     <br>
